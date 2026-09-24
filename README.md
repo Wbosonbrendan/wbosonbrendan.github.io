@@ -1,3 +1,3 @@
 # Probability theory
 
-$x = 32y$
+$P(E) = \frac{|E|}{|S|}$
