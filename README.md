@@ -1,2 +1,3 @@
-# wbosonbrendan.github.io
-biopage
+# Probability theory
+
+$x = 32y$
