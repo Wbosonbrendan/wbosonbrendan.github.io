@@ -1,3 +1,2 @@
-$$
-f(x) = \int_{-\infty}^{\infty} e^{-x^2} dx
-$$
+$$ f(x) = \int_{-\infty}^{\infty} e^{-x^2} dx $$
+
